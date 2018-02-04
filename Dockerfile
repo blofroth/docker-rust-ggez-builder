@@ -1,4 +1,4 @@
-FROM rust:1.23
+FROM rust:latest
 
 MAINTAINER Björn Löfroth <bjorn.lofroth@gmail.com>
 
